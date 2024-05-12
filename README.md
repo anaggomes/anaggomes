@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on basic Javascript skills!
-- 🌱 Learning Software Development with northcoders.com 
-- 👯 I’m looking to collaborate on any cool project that will teach me something new
-- 🤔 I’m looking for help with git & command line
+- 🔭 I’m a theatre nurse keen to start a career in Tech!
+- 🌱 Learning Full Stack Software Development with Northcoders 
+- 👯 I’m looking to meet criative developers and build some cool stuff together
 - 💬 Ask me about: biohacking :)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
--->
+
+
